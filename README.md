@@ -50,6 +50,7 @@ This project consists of a simple webpage with a "Yes" and "No" button. When the
 
 - `handleNoClick()`: Changes the "No" button text and increases the size of the "Yes" button.
 - `handleYesClick()`: Redirects the user to `yes_page.html`.
+- test
 
 ---
 
